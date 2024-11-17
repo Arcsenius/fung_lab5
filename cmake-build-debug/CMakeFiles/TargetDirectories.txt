@@ -1,5 +1,0 @@
-C:/Users/Arseniy/CLionProjects/fund_alg_lab_5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Arseniy/CLionProjects/fund_alg_lab_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Arseniy/CLionProjects/fund_alg_lab_5/cmake-build-debug/task1/CMakeFiles/fund_alg_lab_5_task1.dir
-C:/Users/Arseniy/CLionProjects/fund_alg_lab_5/cmake-build-debug/task1/CMakeFiles/edit_cache.dir
-C:/Users/Arseniy/CLionProjects/fund_alg_lab_5/cmake-build-debug/task1/CMakeFiles/rebuild_cache.dir
