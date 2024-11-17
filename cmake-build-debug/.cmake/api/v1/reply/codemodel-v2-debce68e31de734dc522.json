@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "task1",
+					"jsonFile" : "directory-task1-Debug-80f818fa30b32f025f47.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "task1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fund_alg_lab_5"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "fund_alg_lab_5_task1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "fund_alg_lab_5_task1::@e4d0983e0b10c261a67f",
+					"jsonFile" : "target-fund_alg_lab_5_task1-Debug-5575c279175ec16d99b4.json",
+					"name" : "fund_alg_lab_5_task1",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Arseniy/CLionProjects/fund_alg_lab_5/cmake-build-debug",
+		"source" : "C:/Users/Arseniy/CLionProjects/fund_alg_lab_5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

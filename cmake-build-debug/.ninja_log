@@ -1,0 +1,25 @@
+# ninja log v6
+4	731	7535442332882384	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+12	814	7535442332967276	task1/CMakeFiles/fund_alg_lab_5_task1.dir/src/binary_int.cpp.obj	930b37cc2bdf983a
+814	1198	7535442340983157	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+40	810	7535444932669361	task1/CMakeFiles/fund_alg_lab_5_task1.dir/src/binary_int.cpp.obj	930b37cc2bdf983a
+21	741	7535446209194524	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+28	890	7535446209256623	task1/CMakeFiles/fund_alg_lab_5_task1.dir/src/binary_int.cpp.obj	930b37cc2bdf983a
+890	1068	7535446217884526	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+23	701	7535447803715327	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+702	828	7535447810511888	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+24	748	7535448701573726	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+748	872	7535448708812390	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+21	743	7535449518788947	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+744	866	7535449526006349	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+22	688	7535449786652502	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+688	813	7535449793312059	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+8	800	7535454740216654	task1/CMakeFiles/fund_alg_lab_5_task1.dir/src/binary_int.cpp.obj	930b37cc2bdf983a
+801	957	7535454748143573	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+22	887	7535459406266717	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+28	992	7535459406326703	task1/CMakeFiles/fund_alg_lab_5_task1.dir/src/binary_int.cpp.obj	930b37cc2bdf983a
+992	1151	7535459415969335	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+23	665	7535459857990326	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+666	796	7535459864423184	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
+24	743	7535460283694771	task1/CMakeFiles/fund_alg_lab_5_task1.dir/main.cpp.obj	a650e4e456776a3b
+744	902	7535460290889050	task1/fund_alg_lab_5_task1.exe	e7018d2414ff74da
